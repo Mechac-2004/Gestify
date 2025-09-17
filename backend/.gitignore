@@ -1,0 +1,29 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers compilés de Python
+__pycache__/
+*.pyc
+
+# Fichiers de base de données
+db.sqlite3
+*.sqlite3
+db.sql
+
+# Fichiers de configuration locale
+local_settings.py
+.env
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+.DS_Store
+
+# Fichiers de configuration de l'éditeur (VS Code)
+.vscode/
+
+# Django's media and static directories (if you don't want to version them)
+# media/
+# static/
